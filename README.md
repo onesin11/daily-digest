@@ -30,7 +30,8 @@ Daily curated digest of community posts on free cloud resources, AI coding agent
 按日期倒序，每条一行：日期 · 主题 · 标题。
 
 <!-- INDEX:START -->
-_暂无条目。_
+- 2026-11-09 · ai-agents · [Claude Code 的“不再询问”会把命令里的密码存进项目，再被一起推上 GitHub](ai-agents/2026-11-09-claude-settings-local-secrets.md)
+- 2026-11-09 · free-cloud · [甲骨文 Always Free 现状：ARM 额度已减半，AMD 小机近期也有人踩坑](free-cloud/2026-11-09-oracle-always-free-status.md)
 <!-- INDEX:END -->
 
 ## 许可证
