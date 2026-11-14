@@ -30,6 +30,8 @@ Daily curated digest of community posts on free cloud resources, AI coding agent
 按日期倒序，每条一行：日期 · 主题 · 标题。
 
 <!-- INDEX:START -->
+- 2026-11-14 · free-cloud · [Val Town 关停：免费跑脚本、定时任务的平台，2027 年 1 月 10 日全部停服](free-cloud/2026-11-14-val-town-winding-down.md)
+- 2026-11-14 · ai-agents · [Atuin Threads：把 Claude Code、Codex、OpenCode 的会话记录同步到每台机器，还能换个代理接着做](ai-agents/2026-11-14-atuin-threads-agent-sessions.md)
 - 2026-11-09 · ai-agents · [Claude Code 的“不再询问”会把命令里的密码存进项目，再被一起推上 GitHub](ai-agents/2026-11-09-claude-settings-local-secrets.md)
 - 2026-11-09 · free-cloud · [甲骨文 Always Free 现状：ARM 额度已减半，AMD 小机近期也有人踩坑](free-cloud/2026-11-09-oracle-always-free-status.md)
 <!-- INDEX:END -->
