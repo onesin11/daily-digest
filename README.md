@@ -30,6 +30,8 @@ Daily curated digest of community posts on free cloud resources, AI coding agent
 按日期倒序，每条一行：日期 · 主题 · 标题。
 
 <!-- INDEX:START -->
+- 2026-11-15 · a-share-quant · [daily_stock_analysis：用大模型每天分析自选股，推送到 Telegram、企业微信，能直接跑在 GitHub Actions 上](a-share-quant/2026-11-15-daily-stock-analysis.md)
+- 2026-11-15 · ai-agents · [AI 生成的网站在漏数据：7,403 个 Lovable 应用不登录就能读出带邮箱的数据表](ai-agents/2026-11-15-lovable-supabase-rls-leaks.md)
 - 2026-11-14 · free-cloud · [Val Town 关停：免费跑脚本、定时任务的平台，2027 年 1 月 10 日全部停服](free-cloud/2026-11-14-val-town-winding-down.md)
 - 2026-11-14 · ai-agents · [Atuin Threads：把 Claude Code、Codex、OpenCode 的会话记录同步到每台机器，还能换个代理接着做](ai-agents/2026-11-14-atuin-threads-agent-sessions.md)
 - 2026-11-09 · ai-agents · [Claude Code 的“不再询问”会把命令里的密码存进项目，再被一起推上 GitHub](ai-agents/2026-11-09-claude-settings-local-secrets.md)
