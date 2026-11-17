@@ -30,6 +30,8 @@ Daily curated digest of community posts on free cloud resources, AI coding agent
 按日期倒序，每条一行：日期 · 主题 · 标题。
 
 <!-- INDEX:START -->
+- 2026-11-17 · ai-agents · [OpenCode Browse：让 Claude Code、Codex 直接用你日常的 Chrome，带着登录状态干活，遇到登录、两步验证就交还给你](ai-agents/2026-11-17-opencode-browse.md)
+- 2026-11-17 · ai-agents · [Claude Code 团队怎么让代理“自己验收”：写一个 verify 技能、修三轮还不过就叫人、改动不能改自己的检查](ai-agents/2026-11-17-claude-code-verification.md)
 - 2026-11-16 · free-cloud · [Google Cloud 免费试用改规则：11 月 16 日起新开的账号，300 美元赠金不能再花在 Gemini 上](free-cloud/2026-11-16-gcp-trial-credit-no-gemini.md)
 - 2026-11-16 · ai-agents · [Chrome DevTools MCP 1.13：Google 官方的“给代理用的 Chrome”，Claude Code、Codex 一条命令接上，Linux 服务器上实测能跑](ai-agents/2026-11-16-chrome-devtools-mcp.md)
 - 2026-11-15 · a-share-quant · [daily_stock_analysis：用大模型每天分析自选股，推送到 Telegram、企业微信，能直接跑在 GitHub Actions 上](a-share-quant/2026-11-15-daily-stock-analysis.md)
