@@ -30,6 +30,7 @@ Daily curated digest of community posts on free cloud resources, AI coding agent
 按日期倒序，每条一行：日期 · 主题 · 标题。
 
 <!-- INDEX:START -->
+- 2026-11-19 · ai-agents · [DeepSeek API 调整计费：模型自己联网搜索、读网页，工具调用不再单独收钱，只按 token 算](ai-agents/2026-11-19-deepseek-server-search-free.md)
 - 2026-11-18 · ai-agents · [换模型时也该换“壳”：22 个编程代理 × 5 个模型的大规模评测，同一模型换个代理花费差 1.8 到 5 倍，贵不等于好](ai-agents/2026-11-18-frontierharness-eval.md)
 - 2026-11-17 · ai-agents · [OpenCode Browse：让 Claude Code、Codex 直接用你日常的 Chrome，带着登录状态干活，遇到登录、两步验证就交还给你](ai-agents/2026-11-17-opencode-browse.md)
 - 2026-11-17 · ai-agents · [Claude Code 团队怎么让代理“自己验收”：写一个 verify 技能、修三轮还不过就叫人、改动不能改自己的检查](ai-agents/2026-11-17-claude-code-verification.md)
