@@ -30,6 +30,8 @@ Daily curated digest of community posts on free cloud resources, AI coding agent
 按日期倒序，每条一行：日期 · 主题 · 标题。
 
 <!-- INDEX:START -->
+- 2026-11-21 · ai-agents · [Inkling 2 Mini：Apache 2.0 开源、约 20GB 能在笔记本上跑的编程代理模型，同尺寸开源模型里编程榜第一](ai-agents/2026-11-21-inkling-2-mini.md)
+- 2026-11-21 · a-share-quant · [AKShare 1.20.6x 连着几个不兼容改动：新浪日线接口改名、12 个接口改返回表格，升级前先查一遍旧接口名](a-share-quant/2026-11-21-akshare-1-20-breaking-renames.md)
 - 2026-11-20 · ai-agents · [Gemini 4 Neon 发布：编程代理榜第一的中档模型，API 只开付费档，没有免费额度](ai-agents/2026-11-20-gemini-4-neon.md)
 - 2026-11-20 · ai-agents · [Alan 的内部代理 Hopper：一个代理加技能和连接器，80% 员工在用，聊天不用先等沙盒](ai-agents/2026-11-20-alan-hopper-internal-agent.md)
 - 2026-11-19 · ai-agents · [DeepSeek API 调整计费：模型自己联网搜索、读网页，工具调用不再单独收钱，只按 token 算](ai-agents/2026-11-19-deepseek-server-search-free.md)
